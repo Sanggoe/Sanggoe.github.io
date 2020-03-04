@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Sanggoe"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "First step in **Programming**"
+  location         : "South Korea"
+  email            : "secret@Unknown.___"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
