@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Sanggoe"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/kimsabu.jpg"
   bio              : "First step in **Programming**"
   location         : "South Korea"
   email            : "secret@Unknown.___"
