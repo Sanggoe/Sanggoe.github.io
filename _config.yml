@@ -25,7 +25,7 @@ url                      : "https://sanggoe.github.io" # the base hostname & pro
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/view1.jpg"# path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -122,9 +122,9 @@ author:
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
-#    - label: "Facebook"
-#      icon: "fab fa-fw fa-facebook-square"
-#      url: "https://www.facebook.com/profile.php?id=100002065430194"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/profile.php?id=100002065430194&ref=bookmarks"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Sanggoe"
