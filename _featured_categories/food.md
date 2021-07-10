@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Class
-slug: class
+title: Food
+slug: food
 menu: true
 submenu: true
-order: 4
+order: 5
 description: >
-  수업  
+  음식, 맛집
 ---

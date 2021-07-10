@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Study
-slug: study
+title: Travel
+slug: travel
 menu: true
 submenu: true
-order: 3
+order: 4
 description: >
-  수업 및 공부
+  여행
 ---

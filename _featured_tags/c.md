@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: NLP
-slug: nlp
-category: class
+title: C
+slug: c
+category: study
 menu: false
 order: 1
 ---

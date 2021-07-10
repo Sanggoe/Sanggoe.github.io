@@ -1,9 +1,9 @@
 ---
 layout: list
-title: etc
-slug: etc
+title: Life
+slug: life
 menu: true
-submenu: false
+submenu: true
 order: 6
 description: >
   기타, 이것저것

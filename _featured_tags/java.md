@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: GITHUBPAGE
-slug: githubpage
+title: Java
+slug: java
 category: study
 menu: false
-order: 1
+order: 2
 ---
