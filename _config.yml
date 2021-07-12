@@ -10,10 +10,10 @@ url:                 https://sanggoe.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             "sanggoe.github.io"
+baseurl:             ""
 
 # A very short description of your page
-tagline:             "sanggoe's blog"
+tagline:             "개발 블로그"
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
@@ -57,7 +57,7 @@ copyright:           '&copy; 2020.07. by Sanggoe'
 permalink:           
 
 # Pagination configuration (used by the `blog` layout)
-paginate:            5
+paginate:            3
 paginate_path:       '/page-:num/'
 
 # If you are upgrading form a v5 verison of Hydejack, uncomment the two lines below,
