@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "[Algorithm] Dynamic Programming"
+subtitle:   "다이나믹 프로그래밍"
+date: 2020-07-23 11:45:51 +0900
+categories: study
+tags: algorithm
+comments: true
+---
+
 # Dynamic Programming
 
 <br/>

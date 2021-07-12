@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "[Algorithm] Data Struct"
+subtitle:   "큐"
+date: 2020-07-23 11:45:51 +0900
+categories: study
+tags: algorithm
+comments: true
+---
+
 # Data Struct
 
 <br/>

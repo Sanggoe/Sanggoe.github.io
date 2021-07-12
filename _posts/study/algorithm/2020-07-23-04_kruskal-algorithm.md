@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "[Algorithm] Graph Algorithm"
+subtitle:   "크루스칼 알고리즘"
+date: 2020-07-23 11:45:51 +0900
+categories: study
+tags: algorithm
+comments: true
+---
+
 # Graph Algorithm
 
 <br/>
