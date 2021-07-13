@@ -6,7 +6,7 @@
     <h1 class="post-title">
       {% if include.link_title %}<a href="{{ post.url | relative_url }}" data-flip="title">{% endif %}
         {{ post.title }}
-      {% if include.link_title %}</a>{% endif %}
+        {% if include.link_title %}</a>{% endif %}
     </h1>
 
     <p class="post-date heading">
@@ -18,25 +18,42 @@
     {% include message.html text=post.description %}
   </header>
   {% for tag_slug in post.tags %}
-    {% unless tag.header-img %}
-      {% assign tag = site.featured_tags | where: "slug", tag_slug | first %}
-    {% endunless %}
+  {% unless tag.header-img %}
+  {% assign tag = site.featured_tags | where: "slug", tag_slug | first %}
+  {% endunless %}
   {% endfor %}
 
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   {% unless include.excerpt %}
-    <div class="markdown-body">
+  <div class="markdown-body">
 
+    <div style="text-align:right; text-align: left">
+      <a href="https://hits.seeyoufarm.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}"
+        target="_blank">
+        <img
+          src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}&count_bg=%23A2CD17&title_bg=%23555555&icon=bilibili.svg&icon_color=%23E7E7E7&title=view&edge_flat=false" />
+      </a>
+    </div>
 
-{% if post.header-img %}<div class="head-image"><img src="{{ site.url }}/{% if post.header-img %}assets/{{ post.header-img }}{% endif %}"/></div>
-<br/>{% elsif tag.header-img %}
-<div class="head-image"><img src="{{ site.url }}/assets/{{ tag.header-img }}"/></div>
-<br/>{% endif %}
-<style>
-.googleads { display:block; width:98%; height: 280px; }
-@media(min-width: 600px) { .googleads { display: none; } }
-</style>
-<!--구글 에드센스
+    {% if post.header-img %}<div class="head-image"><img
+        src="{{ site.url }}/{% if post.header-img %}assets/{{ post.header-img }}{% endif %}" /></div>
+    <br />{% elsif tag.header-img %}
+    <div class="head-image"><img src="{{ site.url }}/assets/{{ tag.header-img }}" /></div>
+    <br />{% endif %}
+    <style>
+      .googleads {
+        display: block;
+        width: 98%;
+        height: 280px;
+      }
+
+      @media(min-width: 600px) {
+        .googleads {
+          display: none;
+        }
+      }
+    </style>
+    <!--구글 에드센스
 <ins class="adsbygoogle myAd1190"
     data-ad-client="ca-pub-1200017190012992"
 ></ins>
@@ -45,10 +62,10 @@
 </script>
 <br/>
 -->
-      <!--게시물 내용-->
-      {{ post.content }}
-      <br/>
-      <!-- 블로그-하단-반응형 
+    <!--게시물 내용-->
+    {{ post.content }}
+    <br />
+    <!-- 블로그-하단-반응형 
       <br/>
       
       <ins class="adsbygoogle"
@@ -65,30 +82,31 @@
 
     </script>
     -->
-  {% else %}
+    {% else %}
 
     {{ post.excerpt }}
-    <p class="read-more"><a class="heading" href="{{ post.url | relative_url }}" data-flip="title">Continue reading </a></p>
-  {% endunless %}
+    <p class="read-more"><a class="heading" href="{{ post.url | relative_url }}" data-flip="title">Continue reading </a>
+    </p>
+    {% endunless %}
 
 </article>
 {% unless include.link_title %}
-  <hr class="dingbat" />
+<hr class="dingbat" />
 <!--공유, 트위터, 페이스북-->
-  <div class="share">
-      <h2>Share this post</h2>
-      <div class="share-body">
-        <a href="http://twitter.com/share?text={{ page.title }}&amp;url={{ site.url }}{{ page.url }}"
-    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
-            <span class="icon-twitter">
-            </span>
-        </a>
-        <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}"
-    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
-            <span class="icon-facebook">
-            </span>
-        </a>
-    </div>
+<div class="share">
+  <h2>Share this post</h2>
+  <div class="share-body">
+    <a href="http://twitter.com/share?text={{ page.title }}&amp;url={{ site.url }}{{ page.url }}"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <span class="icon-twitter">
+      </span>
+    </a>
+    <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <span class="icon-facebook">
+      </span>
+    </a>
   </div>
-  <br/>
+</div>
+<br />
 {% endunless %}

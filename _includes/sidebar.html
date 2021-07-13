@@ -9,30 +9,37 @@
 
       <div class="sidebar-box">
         {% if author.picture %}
-          {% include srcset-img.html class="me" img=author.picture alt=author.name %}
+        {% include srcset-img.html class="me" img=author.picture alt=author.name %}
         {% endif %}
       </div>
       {{ site.description | truncatewords:50 | markdownify }}
       {% assign author = site.data.authors.first[1] %}
       {% if author.social %}
 
-      <br/>
+      <br />
+      <div style="text-align: center;">
+        <a href="https://hits.seeyoufarm.com">
+          <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsanggoe.github.io&count_bg=%232D3486&title_bg=%234D4D4D&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/>
+        </a>
+      </div>
+
       <nav class="sidebar-nav heading" role="navigation">
         {% include nav.html %}
       </nav>
 
       <form action="/search">
         <div class="tipue_search_left">
-          <input type="text" name="q" id="tipue_search_input" pattern=".{1,}" title="At least 1 characters" required></div>
-          <div class="tipue_search_right">
-            <img src="/assets/tipuesearch/search.png" class="tipue_search_icon">
-          </div>
-          <div style="clear: both;"></div>
-      </form>
-        
-        <div class="sidebar-social">
-          {% include social.html social=author.social %}
+          <input type="text" name="q" id="tipue_search_input" pattern=".{1,}" title="At least 1 characters" required>
         </div>
+        <div class="tipue_search_right">
+          <img src="/assets/tipuesearch/search.png" class="tipue_search_icon">
+        </div>
+        <div style="clear: both;"></div>
+      </form>
+
+      <div class="sidebar-social">
+        {% include social.html social=author.social %}
+      </div>
       {% endif %}
     </header>
   </div>
