@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Algorithm] Sort Algorithm"
-subtitle:   "C++ STL sort()"
-date: 2020-07-23 11:45:51 +0900
+title:  "[Sort] C++ STL sort()"
+subtitle:   "C++ STL sort() 함수"
+date: 2020-04-24 11:45:51 +0900
 categories: study
 tags: algorithm
 comments: true
@@ -306,4 +306,4 @@ Process exited after 0.1659 seconds with return value 0
 
 <br/>
 
-[목록 보기](../README.md)
+[깃허브](https://github.com/Sanggoe/Algorithm/tree/master)

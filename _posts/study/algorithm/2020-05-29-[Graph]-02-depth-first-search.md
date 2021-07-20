@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Algorithm] Graph Algorithm"
-subtitle:   "깊이 우선 탐색"
-date: 2020-07-23 11:45:51 +0900
+title:  "[Graph] DFS 깊이 우선 탐색"
+subtitle:   "Depth First Search"
+date: 2020-05-29 11:45:51 +0900
 categories: study
 tags: algorithm
 comments: true
@@ -12,7 +12,7 @@ comments: true
 
 <br/>
 
-## 02. 깊이 우선 탐색 (DFS)
+## 02. 깊이 우선 탐색 (Depth first search)
 
 * 탐색할 때 **깊은 것을 우선**으로 하여 탐색을 수행하는 탐색 알고리즘
 * 맹목적인 탐색 하고자 할 때 사용하는 방법
@@ -155,4 +155,4 @@ int main(void) {
 
 [모든 자료 및 사진 출처](https://blog.naver.com/PostView.nhn?blogId=ndb796&logNo=221230944971&proxyReferer=https:%2F%2Fwww.google.com%2F)
 
-[목록 보기](../README.md)
+[깃허브](https://github.com/Sanggoe/Algorithm/tree/master)

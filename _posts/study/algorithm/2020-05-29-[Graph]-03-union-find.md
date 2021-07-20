@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Algorithm] Graph Algorithm"
-subtitle:   "합집합 찾기"
-date: 2020-07-23 11:45:51 +0900
+title:  "[Graph] 합집합 찾기"
+subtitle:   "Union Find"
+date: 2020-05-29 11:45:51 +0900
 categories: study
 tags: algorithm
 comments: true
@@ -147,4 +147,4 @@ int main(void) {
 
 [모든 자료 및 사진 출처](https://blog.naver.com/PostView.nhn?blogId=ndb796&logNo=221230967614&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView)
 
-[목록 보기](../README.md)
+[깃허브](https://github.com/Sanggoe/Algorithm/tree/master)

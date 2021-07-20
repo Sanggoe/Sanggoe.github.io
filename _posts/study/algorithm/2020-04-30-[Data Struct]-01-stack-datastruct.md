@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Algorithm] Data Struct"
-subtitle:   "스택"
-date: 2020-07-23 11:45:51 +0900
+title:  "[Data Struct] 스택"
+subtitle:   "Stack"
+date: 2020-04-30 11:45:51 +0900
 categories: study
 tags: algorithm
 comments: true
@@ -58,4 +58,4 @@ int main(void) {
 
 <br/>
 
-[목록 보기](../README.md)
+[깃허브](https://github.com/Sanggoe/Algorithm/tree/master)

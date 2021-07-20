@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Algorithm] Graph Algorithm"
-subtitle:   "너비 우선 탐색"
-date: 2020-07-23 11:45:51 +0900
+title: "[Graph] BFS 너비 우선 탐색"
+subtitle: "Breadth First Search"
+date: 2020-05-29 11:45:51 +0900
 categories: study
 tags: algorithm
 comments: true
@@ -12,7 +12,7 @@ comments: true
 
 <br/>
 
-## 01. 너비 우선 탐색 (BFS)
+## 01. 너비 우선 탐색 (Breadth First Search)
 
 * 탐색할 때 **너비를 우선**으로 하여 탐색을 수행하는 탐색 알고리즘
 * 시작점과 가까운 것 위주로 탐색하는 기법
@@ -141,4 +141,4 @@ int main(void) {
 
 [모든 자료 및 사진 출처](https://blog.naver.com/PostView.nhn?blogId=ndb796&logNo=221230944971&proxyReferer=https:%2F%2Fwww.google.com%2F)
 
-[목록 보기](../README.md)
+[깃허브](https://github.com/Sanggoe/Algorithm/tree/master)

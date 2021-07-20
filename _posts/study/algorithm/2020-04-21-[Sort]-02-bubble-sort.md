@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Algorithm] Sort Algorithm"
-subtitle:   "버블 정렬"
-date: 2020-07-23 11:45:51 +0900
+title:  "[Sort] 버블 정렬"
+subtitle:   "Bubble sort"
+date: 2020-04-21 11:45:51 +0900
 categories: study
 tags: algorithm
 comments: true
@@ -62,5 +62,4 @@ int main(void) {
 
 <br/>
 
-[목록 보기](../README.md)
-
+[깃허브](https://github.com/Sanggoe/Algorithm/tree/master)

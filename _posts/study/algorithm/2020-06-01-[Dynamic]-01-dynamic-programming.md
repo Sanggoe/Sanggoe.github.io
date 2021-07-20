@@ -103,4 +103,4 @@ int main(void) {
 
 [모든 자료 및 사진 출처](https://blog.naver.com/PostView.nhn?blogId=ndb796&logNo=221233570962&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView)
 
-[목록 보기](../README.md)
+[깃허브](https://github.com/Sanggoe/Algorithm/tree/master)

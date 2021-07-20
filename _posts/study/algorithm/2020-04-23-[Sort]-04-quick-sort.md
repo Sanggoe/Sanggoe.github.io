@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Algorithm] Sort Algorithm"
-subtitle:   "퀵 정렬"
-date: 2020-07-23 11:45:51 +0900
+title:  "[Sort] 퀵 정렬"
+subtitle:   "Quick Sort"
+date: 2020-04-23 11:45:51 +0900
 categories: study
 tags: algorithm
 comments: true
@@ -191,4 +191,4 @@ N\*N과 비교했을 때, N\*상수 와 같으므로, 굉장히 빠른 편에 �
 
 <br/>
 
-[목록 보기](../README.md)
+[깃허브](https://github.com/Sanggoe/Algorithm/tree/master)
