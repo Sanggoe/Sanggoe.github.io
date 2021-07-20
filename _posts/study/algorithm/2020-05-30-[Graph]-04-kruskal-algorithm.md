@@ -2,7 +2,7 @@
 layout: post
 title:  "[Graph] 크루스칼 알고리즘"
 subtitle:   "Kruskal Algorithm"
-date: 2020-07-23 11:45:51 +0900
+date: 2020-05-30 11:45:51 +0900
 categories: study
 tags: algorithm
 comments: true
