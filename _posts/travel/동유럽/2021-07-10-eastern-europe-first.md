@@ -6,24 +6,298 @@ categories: travel
 tags: eastern-europe
 comments: true
 ---
-그렇다 그랬던
-것이엇다
 
-## 첫 번째 글!!
----
+### 인천 - 체코 프라하 - 우스트 나트라뱀
 
-첫 번째 글을 쓴다.
-테스트로 쓰는 여행 글
+여행을 좋아하는 공대생의 개인적인 경험과 생각이 담긴, 주관적인 여행기
 
-
-## 안녕 반가워
-헬로우
-봉쥬르
-구텐탁
-오하요
-니하오
-쌀라맛뽀
-날씨가 너무 덥다
+<hr/>
 
 <br/>
-하하하
+
+2020년 1월 8일, 드디어 전역했다. 그 기나긴 군생활이 끝나고 이제 자유의 몸. 솔직히 복학하기 싫은데, 현실로 돌아오면 생각이 달라지는 듯 하다. 근데 그전에 멀~리 여행은 한 번 다녀오고 싶더라. 전부터 생각은 했지만 실질적으로 계획하지 않았던 여행을 진짜 가기로 했다. 근데.. 수강신청 기간 피하면서 빨리 갔다오려면 준비 해야할게 이만저만이 아니었다. 시간은 없고 결정장애 우유부단 두 명이 모여 고민 하다가, 패키지로 가기로 했다. 사실 서유럽을 가고 싶었으나 돈이 없어 금전적인 문제로 동유럽을 선택했다는 슬픈 이야기다.
+
+패키지로 가는 그 마저도 험난한 과정. **우한 폐렴, 코로나 바이러스** 때문인지 처음에 예약했던게 인원 미달로 취소됐단다. 이런.. 아쉬움을 뒤로하고 다른 상품을 급히 찾아보고, 인원 부족으로 취소가 **총 3번이 반복 되었다**. 정말 마음의 상처를 입고 마지막으로 이것도 취소되면 그냥 안간다는 마음으로 예약한 Very Good tour 회사의 상품. 다행히 갈 수 있었다.
+
+<br/>
+
+![IMG_pakage](../../../assets/img/travel/동유럽/pakage.png)
+
+> 10박 12일 일정
+
+<br/>
+
+독일, 체코, 오스트리아, 헝가리 동유럽 4국에 발칸 3국. 총 10박 12일 일정이었다. 실질적으로 말하면 10일이라고 봐야 한다. 비행기에서 거의 시간상으로 하루 온종일 시간을 보내니까. 갈 때 11시간 20분, 올 때 9시간 20분. 지구가 자전을 동에서 서로 하니까 올 때는 2시간 정도 덜 걸리나 보더라. 역시 지구는 돈다! ㅋㅋ
+
+<br/>
+
+![IMG_20200201_101251](/assets/img/travel/동유럽/20200201_101251.jpg)
+
+> 여권. 탑승권은 모바일
+
+<br/>
+
+원래 2월 2일 주일, 13시에 출발하는 일정이었는데, 불과 1주일 전에 또 연락이 왔다. 이번에 또 8명 단체가 취소하느라 인원 부족으로 일정이 취소되었다고. 에휴... 그냥 가지 말까? 그래도 다행히 바로 하루 앞 2월 1일 토요일에 출발하는 일정은 출발 확정되었다고 안내 해준다. 빨리가면 더 좋지 뭐. 그렇게 또 취소되어 못갈 뻔 했던 일정이 어찌어찌 가게 되었다.
+
+---
+
+[##_Image|kage@ciDFV1/btqBZMSZMW3/pt16kKakBP3zSQ03KSLgAk/img.jpg|alignCenter|data-origin-width="0.0" data-origin-height="0.0" data-ke-mobilestyle="widthOrigin"|항공편 확인 모니터||_##]
+
+---
+
+그렇게 2월 1일 토요일. 오전 7시 50분 집에서 출발했다. 인천 공항까지는 아빠 찬스! 감사히도 공항까지 태워다 주신 덕에 매우 편하게 갈 수 있었다. 12시 50분 비행기에 9시가 조금 넘어 도착. 여행사 데스크에 도착하여 필요한 안내를 받고, 탑승구 앞에서 12시 10분에 모이기로 했다. 요즘엔 탑승권이 다 모바일이더라. 종이로 된 건 필요하지도 않았다. 아예 짐을 맡겨 버리고 출국 심사대를 지나 밥을 먹기로 했다.
+
+시국이 시국인지라, 걱정들을 많이 하셨다. 그치만 대한항공을 타고가느라 제2터미널로 가서였을지는 모르겠다만... 중국인은 거의 전혀 수준으로 못 만났고, 기본적으로 사람도 없어 텅텅 비어있었다.
+
+---
+
+[##_Image|kage@sZ8j1/btqBYtNk9Gv/3XHAnayYfZi6UePeke5mz1/img.jpg|alignCenter|data-origin-width="4032.0" data-origin-height="3024.0" data-ke-mobilestyle="widthOrigin"|출발 전 제대로 된 마지막 한식, 김치찌개||_##]
+
+---
+
+경험상, 거기 가면 '진짜 한국음식'이 그립긴 하다. 패키지라 물론 한식 엄청 먹겠지만, 거기 한식은 진짜 ~맛대가리가~ 맛이 없다. 그래서 선택한 김치찌개. 이 집 괘않네. 먹을만 하네. 공항이라 진짜 죄다 만원 넘어가는 식당들이라 너무 비싸길래.. 싼곳을 찾아찾아 왔다. 맛있다.
+
+---
+
+[##_Image|kage@mCMf1/btqBZsmToad/LVSxnSHck1gIb7wuauKRb0/img.jpg|alignCenter|data-origin-width="0.0" data-origin-height="0.0" data-ke-mobilestyle="widthOrigin"|비행기를 보니 마음이 다 설렌다||_##]
+
+---
+
+진짜 오랜만이라 그랬나보다. 거북이의 '비행기' 노래가 생각난다. 아 되게 설렌다. 비행기를 타고 날아가는 그 기분ㅋㅋㅋ
+
+---
+
+[##_Image|kage@cP4snI/btqBZMemuxu/4gyOTImmSQyI5BRKD0oV2k/img.jpg|alignCenter|data-origin-width="5184.0" data-origin-height="3456.0" data-ke-mobilestyle="widthOrigin"|내가 하늘을 날고있어요!||_##]
+
+---
+
+비행기는 역시 통로 좌석이다. 그걸 알지만 친구가 처음이라 창가 자리에 앉고 싶어 해서 가운데에 앉게 되었다. 역시 옆으로 넓은 나에겐 비좁은 좌석.ㅋㅋ 다음에 올 때는 꼭 통로 좌석에 앉아야겠다.
+
+비행기에서 옆자리에 앉으신 아주머니 한분과 이야기를 나누게 되었다. 남편분이 동유럽쪽에 LG 회사에 다니고 계시다고, 매 번 방학 시즌마다 가신다고 한다. 평소 뜬구름 같은 막연한 꿈이지만, 이야기를 하고 들으면서 나도 해외에 직장을 다녀보고 싶은 꿈이 생긴다. 한국이 아닌 다른 곳에서의 조직 문화를 경험해 보고 싶기 때문에. 일하는 마인드와 서로간의 인식이 어떤지, 편견은 없는지. 또 진짜 듣던대로 오픈 마인드와 자유로운 그런 분위기인지. 아, 물론 어딜 가든지 그에 상응하는 책임도 따르겠지만 말이다.
+
+---
+
+[##_Image|kage@cGosxv/btqB1c4JPh5/Q3cMREiZbqa9ooV6eKTKoK/img.jpg|alignCenter|data-origin-width="4032.0" data-origin-height="3024.0" data-ke-mobilestyle="widthOrigin"|기내식은 신라면||_##]
+
+---
+
+여윽시 대한항공. 처음부터 이거 탈껄. 괜히 전에 일본 갈 때랑 서유럽 갈 때 아시아나로 마일리지 모았나보다. 주가 부터가 몇 배 차이나는 회사인데 그럼... (땅콩 그 분은 회사 내부 일이실테니..)  
+
+
+기내식 맛있다. 너무 배고파서 기내식을 두 번씩이나 먹었는데도 사진은 한 개도 없다. 매쉬드 포테이토와 소고기 요리, 그리고 닭고기 파스타였다. 아, 물론 내가 먹은 '메뉴 두 개' 가 그렇다는 말.  
+
+
+그러고보니 두 번씩 두 번 총 네 번 먹었다. ㅋㅋㅋ 거기에 컵라면이랑 간식까지. 도대체 얼마나 ~쳐~먹는게냐.
+
+[##_Image|kage@w7huf/btqBZNLnQPJ/Qf7MKYmjkwN9VipoYK1LEK/img.gif|alignCenter|width="100%" data-origin-width="398" data-origin-height="226" data-ke-mobilestyle="widthOrigin"|도대체 을매나 쳐먹는게야! 뒈쥐같은 노옴!||_##]
+
+---
+
+[##_Image|kage@ccPraV/btqBYvkbOxL/xJX2lq9ivgHZtVqAdJkYpK/img.jpg|alignCenter|data-origin-width="0.0" data-origin-height="0.0" data-ke-mobilestyle="widthOrigin"|비행기 창문 밝기(?) 조절 버튼||_##]
+
+---
+
+엥 뭐지? 창문 가리개는 없고 이 버튼은 뭔가 했더니...
+
+---
+
+[##_Image|kage@Oyqla/btqBZMZKrsV/JRJtAmTibgc9zkHRGTJnB1/img.jpg|alignCenter|data-origin-width="4032.0" data-origin-height="3024.0" data-ke-mobilestyle="widthOrigin"|의정부 촌놈의 신기방기||_##]
+
+---
+
+비행기를 타니 마치 촌놈 된 것 같다. 와 이거 진짜 신기하다. 옛날 비행기는 창문 셔터를 내렸다 올렸다 하는거로 태양빛을 가렸는데, 찾아보니 특수 액체가 창문 틈 사이에 채워져 있단다. 거기에 전류를 흘려보내 색깔이 변하게 하는 것.  
+
+
+총 5단계 까지 설정할 수 있고, 이륙한 다음에는 숙면환경 조성을 위해 스튜어디스 분께서 일괄적으로 어두워지는 버튼을 앞쪽에서 눌러주신다. 신기하다 요놈...  
+
+
+---
+
+[##_Image|kage@35azg/btqB0gfcOr7/9NSm4gUfT5333LhKXELb21/img.jpg|alignCenter|data-origin-width="3024" data-origin-height="4032" data-ke-mobilestyle="widthOrigin"|성에가 낀 이유에 대한 과학적 접근||_##]
+
+---
+
+주변 창문을 돌아보았다. 그런데 반대쪽 같은 줄에는 없고, 우리 뒷쪽 창문엔 조금, 그 뒤로는 또 멀쩡하다. 자, 우리 창문에 성에가 낀 이유에 대해서 과학적으로 접근해보자.  
+
+
+우선 기본적으로, 비행기가 높은 고도에 올라왔으므로 기온이 급격히 낮아진 상태일 것이다. 두 번째, 베르누이의 법칙과 마그누스 힘에 의해, 비행기는 양력을 얻고 뜰 수 있는 힘도 얻는다. 그 때 날개 위쪽 유속이 빨라지면 압력이 낮아진다. 근데 압력이 낮으면 온도도 낮아지니까 날개 바로 뒤쪽자리인 우리 창문도 온도가 더 낮아서..?
+
+하지만 반대쪽은... 햇빛이 직접 비추므로 성에가 끼지 않았던걸까? 뭐래냐. 이과 망했으면 좋겠다. 나도 이관데. (?)
+
+근데 검색해보니, 비행기 창문에는 성에가 끼지 않는다 라고들 말하는데.. 우리껀 어떻게 된거지. 설명이 필요해...
+
+#### **체코, 프라하 공항 도착**
+
+[##_Image|kage@chL8We/btqBZruNKfM/jNoAMu60SKnLnyKzOK16d0/img.jpg|alignCenter|data-origin-width="5184.0" data-origin-height="3456.0" data-ke-mobilestyle="widthOrigin"|프라하 공항에서 짐을 찾으며||_##]
+
+---
+
+기나긴 비행을 끝으로, 현지시간으로 16:40분. 드디어 도착했다. 한국과의 시차는 8시간 느리다. 한국은 아마 지금 00시 40분. 자정이 지났을 듯 하다. 입국 수속 다같이 모여서 인원 파악 후 받기로 했는데, 한 분께서 또 혼자 먼저 나가서 받고 오셨다. 하여간 단체에서는 그런 분들 꼭 계시더라ㅋㅋㅋ
+
+---
+
+[##_Image|kage@2EEKI/btqB1Hb61N0/BLyMhK8KKqPu5alweUJkmK/img.jpg|alignCenter|data-origin-width="0.0" data-origin-height="0.0" data-ke-mobilestyle="widthOrigin"|프라하 공항 바깥||_##]
+
+---
+
+프라하 공항 밖에 나와 처음으로 이곳 공기를 마시게 되었다. 아 미세먼지 없는 냄새~(?). 딱 도착해서 느낀건, 마스크를 쓰고 있는 사람들은 한국 사람들 밖에 없다. 외국인들은 마스크 쓴 사람을 찾아보기 힘들더라..
+
+---
+
+[##_Image|kage@bikoGn/btqB103zTPd/x9LnAmkFhmD3sDaKbKrFB0/img.jpg|alignCenter|data-origin-width="5184.0" data-origin-height="3456.0" data-ke-mobilestyle="widthOrigin"|프라하 공항 입구||_##]
+
+---
+
+출입문으로 나가는데, 젊은 현지인 여성분이 우리가 우르르 나오는 것을 보더니 욕한다.ㅎㅎ 들어보니... 'X나 붐비네 18' 이라고... 허허이. 아가씨도 참. 입이 험하시네. 내가 못 알아 들을 줄 알고?
+
+---
+
+[##_Image|kage@HdwjL/btqB1GxvT7v/MwzebzJnik9YKoj28NZI71/img.jpg|alignCenter|data-origin-width="5184.0" data-origin-height="3456.0" data-ke-mobilestyle="widthOrigin"|PRAHA, 현지 발음으로는 PRAGUE 인가보다||_##]
+
+---
+
+PRAHA 공항 간판(?)의 모습을 버스에 타서 한 번 찍어 보았다. 동절기라서 유럽은 밤이 정말 길다. 5시 반이 조금 넘었을 뿐인데도 날이 많이 어두워져있다. 어두울 때는 삼각대가 반드시 필요한데... DSLR의 정말 아쉬운 점이다.
+
+---
+
+[##_Image|kage@tXeii/btqBZhsoBBm/dD4jtxnKXjo1x9n9SFCBB0/img.jpg|alignCenter|data-origin-width="0.0" data-origin-height="0.0" data-ke-mobilestyle="widthOrigin"|앞으로 우리가 타고 다닐 버스||_##]
+
+---
+
+패키지의 좋은점(동시에 나쁜점)은 바로 교통비를 쓸 필요 없다는 것. 알아서 목적지에 데려다 주고, 짐을 실어다 주고. 또 이동하고, 이동하고, 이동하고... 이동하고... 이동한다. 그렇다. 버스 관광이다. 아쉽지만 어쩌겠는가. 짧은 시간 안에 많은 곳을 보아야 하는 일정이다보니까 어쩔 수 없는 부분이다. 그리고 내가 알고도 선택한 부분이고...
+
+골디 라는 이름을 가진 기사님은 크로아티아 분이었다. 앞으로 우리의 버스를 책임져 주실 분. 아쉽게도 지나고보니 기사님을 찍은 사진은 없었다.
+
+이제 바로 숙소로 이동해서 첫날은 바로 휴식. 일정이 없다. 어두워진 도로를 버스타고 달리는데, 사람이 살고 있는 주택가에만 조금의 가로등만 존재할 뿐. 차도에는 가로등이 아예 없는곳도 많다. 절약정신인 것인가? 인구 대비 땅덩어리가 워낙에 넓다보니 다 감당할 수도 없는것이리라.
+
+---
+
+[##_Image|kage@0okWz/btqBYfojeCH/3oD9yFglX4HGde5goFFwkK/img.jpg|alignCenter|data-origin-width="5184" data-origin-height="3456" data-ke-mobilestyle="widthOrigin"|Comfort Hotel 입구||_##]
+
+---
+
+체코에 왔으니 체코에 대한 간단한 소개를 하자면, 대한민국보다 2만2천 평방키로정도 작다. 근데 사는 인구는 1000만. 서울 인구정도 된다. 사람에 비해서 땅이 엄청나게 넓은 것. 그러다보니 사람 구경이 힘들다. 농사 짓거나 특정 용도로 사용하는 것이 아니라 놀고 있는 땅이 정말 많다고 한다.
+
+오늘 첫번째 날 밤을 보낼 숙소에 도착 했다. 오는 길 버스에서 열심히 구글 맵으로 검색했다. 주변에 마트가 있나? grocery store. 검색. 있다!! 오후 8시까지 영업하는 것을 일단 확인해놓고 체크인을 위해 들어갔다.
+
+---
+
+[##_Image|kage@dA67vV/btqBZqo6rlV/VX2cscSX8fnhy9XXkW6Lk1/img.jpg|alignCenter|data-origin-width="5184" data-origin-height="3456" data-ke-mobilestyle="widthOrigin"|First hotel's RECEPTION||_##]
+
+---
+
+**Do you mind if I take a picture?**
+
+**Oh, No you can take it. Should I have to be in there?**
+
+**No no just take this front. haha but if you want.**
+
+처음 대화를 나눈 유러피언. 매우 이쁘시당.. 같이 한 장 찍을껄. (?)
+
+체코 현지 화폐는 CZK, 코루나를 사용한다. ~잘못 발음하면 코로나..~ 대충 1유로에 25코루나 정도로 생각하면 된다고 한다. 환율이 꽤 좋은 편에 속하는 이 호텔 환전. 1유로에 26코루나 정도 한단다.
+
+---
+
+[##_Image|kage@ljuBA/btqBYf9JAu2/VEcv9SWiuVkkBd0altxge1/img.jpg|alignCenter|data-origin-width="5184" data-origin-height="3456" data-ke-mobilestyle="widthOrigin"|깔끔했던 호텔 방||_##]
+
+---
+
+첫 인상은 매우 깔끔하고 좋았다. 화장실도 깨끗하고. 아, 유럽은 화장실이 욕조가 없는게 대부분이다. 때밀이 문화가 없고 간단하게 흐르는 물에 샤워 정도만 하는 문화. (깨끗하게 안씻나봐..) 우리나라처럼 바닥에 하수구가 없어서 샤워부스 밖으로 물이 튀지 않게 하는것이 좋다.
+
+가이드님의 한 경험을 들려주셨는데, 한 번은 욕조에 물 받을 수 있는 호텔이 있었단다. 근데 물을 받아놓고 너무 피곤해서 잠이 들어버린 것. 그랬더니 물이 넘치고 방 안 카펫도 다 적시고.. 방문 밖까지 물이 흘러 넘쳐서 직원이 오고 난리가 났었다는 것이다. 신발 신고 들어가는 문화다 보니 카펫이 깔려있었고, 그 카펫을 다 들어내고 다시 하느라 거의 백만원이 넘는 돈이 청구되었다는 안타까운 경험담이었다...
+
+그리고 이곳의 물에는, 석회질 성분이 많이 포함되어있다. 되도록 수돗물은 마시지 않는게 좋다. 사서 마시는게 좋음. 그런 이유에서 인지, 유럽쪽에는 국물음식이 거의 없는것이라고.
+
+---
+
+[##_Image|kage@egAu1Z/btqB1ccDPpJ/YwA8w1UJhPwOq7tVclkark/img.jpg|alignCenter|data-origin-width="5184" data-origin-height="3456" data-ke-mobilestyle="widthOrigin"|호텔 앞 은은한 가로등 빛의 도로||_##]
+
+---
+
+짐 정리를 다 하고, 마트에 가기 위해 밖에 나왔다. 이런 분위기. 노란 빛의 가로등이 많다. 고풍스러운 건물들과 함께 어우러져서 되게 이쁜 모습을 만들어내는 듯 하다.
+
+---
+
+[##_Image|kage@W9ElU/btqB1mlJdmt/J42mKzyq3qGEWhHhak7R60/img.jpg|alignCenter|data-origin-width="5184" data-origin-height="3456" data-ke-mobilestyle="widthOrigin"|저 차 레이싱 하는거 아닙니다||_##]
+
+---
+
+Ah... DSLR... Please give me some 삼각대... 진짜 한국 돌아가면 꼭 하나 장만해야지. 밤에는 핸드폰이 나은 듯 하다.
+
+---
+
+[##_Image|kage@rnT4f/btqBZr2zTdA/MwcGm0rQTDZnXmUOp5aG2K/img.jpg|alignCenter|data-origin-width="0.0" data-origin-height="0.0" data-ke-mobilestyle="widthOrigin"|현지 마트, BILLA||_##]
+
+---
+
+우리나라로 따지면.. 이마트 에브리데이 같은 기분이랄까? 이것저것 파는 식자재 마트인데, 브랜드 체인점이다. 앞으로 여행 하면서 자주 이곳 저곳 이 나라 저 나라에서 보게 될 것!!
+
+---
+
+[##_Image|kage@uCcy8/btqB10WOMbC/6vLS5oR7Nxg6H50lr7VMo0/img.jpg|alignCenter|data-origin-width="5184.0" data-origin-height="3456.0" data-ke-mobilestyle="widthOrigin"|마트 왔어요 과일이 싱싱하네요||_##]
+
+---
+
+여기 동유럽은, 물가가 한국에 비해 저렴한 편이다. 이런 식자재라던가 1차로 구매하는 물품들은 진짜 확실히 체감된다. 빵, 치즈, 햄, 유제품, 그리고 과일이 특히 싸다. 하지만 사실 이게 공정 과정을 거치고 음식점에서 조리된 형태로 사먹게 되면 가격이 껑충 뛴다고 한다. 그래서 난 여기 와서 싼 식자재로 요리 해먹으며 여행 하고 싶다...
+
+---
+
+[##_Image|kage@b9AM30/btqB10oYBDM/Kqxv2HKGwlKFGBhjYLRvU1/img.jpg|alignCenter|data-origin-width="0.0" data-origin-height="0.0" data-ke-mobilestyle="widthOrigin"|햄과 소세지 종류가 많은 마트||_##]
+
+---
+
+진짜 많은 종류가 있었는데.. 무슨 말인지 하나도 모르겠다..
+
+---
+
+[##_Image|kage@4rAVq/btqB1mMOx52/EprCW9YkMXwwqzCle22v8k/img.jpg|alignCenter|data-origin-width="0.0" data-origin-height="0.0" data-ke-mobilestyle="widthOrigin"|햄의 종류가 매우 많다||_##]
+
+---
+
+으음 이중에 골라야 하는데. 무조건 싼거를 고르기엔 또 좀 그렇고. 적당히 맛있어 보이는 것으로 골라 보았다.
+
+---
+
+[##_Image|kage@XDc7l/btqB0eIutVq/Q0wlqSdr7Enq4PAkUemhvk/img.jpg|alignCenter|data-origin-width="5184" data-origin-height="3456" data-ke-mobilestyle="widthOrigin"|나의 사랑 나의 치즈||_##]
+
+---
+
+저번에 서유럽에 갔을 때도 현지 마트에서 치즈 종류별로 사다가 먹는것을 취미로 삼았었다. 여기서도 한 번 시도해볼까? 하는 마음이 든다. 미리 스포일러 하자면, 그 꿈은 내 스스로 깨게 된다. 그 때와 다르게 조식이.. 허허.
+
+---
+
+[##_Image|kage@bcWqQU/btqB1nZgaBC/onlTxI6PUf9kCbFzYPAJv0/img.jpg|alignCenter|data-origin-width="0.0" data-origin-height="0.0" data-ke-mobilestyle="widthOrigin"|To much things, No English. 체코어라 뭐가 뭔지 모르고||_##]
+
+---
+
+여기 현지 직원분한테 말을 걸어보았다. 영어를 전.혀. 못하신다. 하려는 의사를 안보이신다.. 하핫.. Can you speak English? 눈도 안마주치고 그냥 고개를 돌리며 손을 내저으신다.
+
+포기할 내가 아니지. 만국 공용어는 영어가 아니다. Body language가 공통어지. 어찌저찌 반찬가게에서 계란 샐러드까지 잘 구매하게 되었다!
+
+---
+
+[##_Image|kage@Es2L7/btqBZgmGHXn/an57dc6ygr0zkDW33HC7fK/img.jpg|alignCenter|data-origin-width="5184" data-origin-height="3456" data-ke-mobilestyle="widthOrigin"|유제품이 많은 현지 마트||_##]
+
+---
+
+소를 고기로 먹는게 아니라 우유를 짜는 용도로 주로 사용하는 이곳. 소젖, 양젖.. 우유 및 유제품들이 진짜 양도 많고 종류도 다양하다.
+
+---
+
+[##_Image|kage@bDZmor/btqB11BqAD1/8uUs2eS4PScOka4L1IwyS1/img.jpg|alignCenter|data-origin-width="0.0" data-origin-height="0.0" data-ke-mobilestyle="widthOrigin"|이제 보니 정말 많이 샀다||_##]
+
+별로 안 산줄 알았는데 나중에 사고 보니 양이 진짜 많았다... 이 때는 진짜 몰랐다. 앞으로 펼쳐질 우리의 식단을. 파란만장한 빵빵빵 식단을. 그냥 처음 유럽에 왔으니 현지의 맛을 느껴보고 싶어 치즈와 햄, 빵을 사다가 먹어본 것 뿐인데... 그래도 빵은 진짜 엄청 싸다. 작고 길쭉한 바게트 느낌의 빵이 100원 정도 하는 수준.
+
+---
+
+[##_Image|kage@bSuNNV/btqB0gl1IaW/KUrYXlNZDU6LFfxby2MAs1/img.jpg|alignCenter|data-origin-width="5184.0" data-origin-height="3456.0" data-ke-mobilestyle="widthOrigin"|유럽의 첫 맛||_##]
+
+---
+
+첫 날이니까 이렇게 맛있게 먹지...
+
+---
+
+두 번째인 지금. 처음 유럽에 왔을 때의 느낌과 들었던 생각과는 확실히 좀 다르긴 하다. 처음 왔을 때는 진짜 뭐든지 하나 하나 다 신기했고, 다 우러러 보는 시각이었기에 솔직히 약간 문화 사대주의에 빠졌었던 것 같다. 근데 지금은 둘 다 경험해본 사람으로서 객관적인 입장에서 '다른' 문화를 생각해볼 수 있는 것 같다.
+
+현지 시간으로 저녁 10시. 잠자리에 누웠다. 한국보다 8시간 느린 이곳. 진짜 몸은 엄청 피곤하다. 그런데 시차 때문에 잠이 잘 안온다. 첫날 동유럽 여행기, 오늘은 이렇게 마무리.
