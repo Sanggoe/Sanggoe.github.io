@@ -21,7 +21,7 @@ comments: true
 
 <br/>
 
-![IMG_pakage](../../../assets/img/travel/동유럽/pakage.png)
+![pakage](/assets/img/travel/동유럽/first/pakage.png)
 
 > 10박 12일 일정
 
@@ -31,7 +31,7 @@ comments: true
 
 <br/>
 
-![IMG_20200201_101251](/assets/img/travel/동유럽/20200201_101251.jpg)
+![20200201_101251](/assets/img/travel/동유럽/first/20200201_101251.jpg)
 
 > 여권. 탑승권은 모바일
 
@@ -41,7 +41,9 @@ comments: true
 
 ---
 
-[##_Image|kage@ciDFV1/btqBZMSZMW3/pt16kKakBP3zSQ03KSLgAk/img.jpg|alignCenter|data-origin-width="0.0" data-origin-height="0.0" data-ke-mobilestyle="widthOrigin"|항공편 확인 모니터||_##]
+![20200201_094320](/assets/img/travel/동유럽/first/20200201_094320.jpg)
+
+> 항공편 확인 모니터
 
 ---
 
@@ -51,7 +53,9 @@ comments: true
 
 ---
 
-[##_Image|kage@sZ8j1/btqBYtNk9Gv/3XHAnayYfZi6UePeke5mz1/img.jpg|alignCenter|data-origin-width="4032.0" data-origin-height="3024.0" data-ke-mobilestyle="widthOrigin"|출발 전 제대로 된 마지막 한식, 김치찌개||_##]
+![20200201_102018](/assets/img/travel/동유럽/first/20200201_102018.jpg)
+
+> 출발 전 제대로 된 마지막 한식, 김치찌개
 
 ---
 
@@ -59,7 +63,9 @@ comments: true
 
 ---
 
-[##_Image|kage@mCMf1/btqBZsmToad/LVSxnSHck1gIb7wuauKRb0/img.jpg|alignCenter|data-origin-width="0.0" data-origin-height="0.0" data-ke-mobilestyle="widthOrigin"|비행기를 보니 마음이 다 설렌다||_##]
+![IMG_1582](/assets/img/travel/동유럽/first/IMG_1582.jpg)
+
+> 비행기를 보니 마음이 다 설렌다
 
 ---
 
@@ -67,7 +73,9 @@ comments: true
 
 ---
 
-[##_Image|kage@cP4snI/btqBZMemuxu/4gyOTImmSQyI5BRKD0oV2k/img.jpg|alignCenter|data-origin-width="5184.0" data-origin-height="3456.0" data-ke-mobilestyle="widthOrigin"|내가 하늘을 날고있어요!||_##]
+![IMG_1584](/assets/img/travel/동유럽/first/IMG_1584.jpg)
+
+> 내가 하늘을 날고있어요!
 
 ---
 
@@ -77,7 +85,9 @@ comments: true
 
 ---
 
-[##_Image|kage@cGosxv/btqB1c4JPh5/Q3cMREiZbqa9ooV6eKTKoK/img.jpg|alignCenter|data-origin-width="4032.0" data-origin-height="3024.0" data-ke-mobilestyle="widthOrigin"|기내식은 신라면||_##]
+![20200201_170722](/assets/img/travel/동유럽/first/20200201_170722.jpg)
+
+> 기내식은 신라면
 
 ---
 
@@ -89,11 +99,15 @@ comments: true
 
 그러고보니 두 번씩 두 번 총 네 번 먹었다. ㅋㅋㅋ 거기에 컵라면이랑 간식까지. 도대체 얼마나 ~쳐~먹는게냐.
 
-[##_Image|kage@w7huf/btqBZNLnQPJ/Qf7MKYmjkwN9VipoYK1LEK/img.gif|alignCenter|width="100%" data-origin-width="398" data-origin-height="226" data-ke-mobilestyle="widthOrigin"|도대체 을매나 쳐먹는게야! 뒈쥐같은 노옴!||_##]
+![pig](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fw7huf%2FbtqBZNLnQPJ%2FQf7MKYmjkwN9VipoYK1LEK%2Fimg.gif)
+
+> 도대체 을매나 쳐먹는게야! 뒈쥐같은 노옴!
 
 ---
 
-[##_Image|kage@ccPraV/btqBYvkbOxL/xJX2lq9ivgHZtVqAdJkYpK/img.jpg|alignCenter|data-origin-width="0.0" data-origin-height="0.0" data-ke-mobilestyle="widthOrigin"|비행기 창문 밝기(?) 조절 버튼||_##]
+![IMG_1585](/assets/img/travel/동유럽/first/IMG_1585.jpg)
+
+> 비행기 창문 밝기(?) 조절 버튼
 
 ---
 
@@ -101,7 +115,9 @@ comments: true
 
 ---
 
-[##_Image|kage@Oyqla/btqBZMZKrsV/JRJtAmTibgc9zkHRGTJnB1/img.jpg|alignCenter|data-origin-width="4032.0" data-origin-height="3024.0" data-ke-mobilestyle="widthOrigin"|의정부 촌놈의 신기방기||_##]
+![20200201_174531](/assets/img/travel/동유럽/first/20200201_174531.jpg)
+
+> 의정부 촌놈의 신기방기
 
 ---
 
@@ -113,7 +129,9 @@ comments: true
 
 ---
 
-[##_Image|kage@35azg/btqB0gfcOr7/9NSm4gUfT5333LhKXELb21/img.jpg|alignCenter|data-origin-width="3024" data-origin-height="4032" data-ke-mobilestyle="widthOrigin"|성에가 낀 이유에 대한 과학적 접근||_##]
+![20200201_181332](/assets/img/travel/동유럽/first/20200201_181332.jpg)
+
+> 성에가 낀 이유에 대한 과학적 접근
 
 ---
 
@@ -128,7 +146,9 @@ comments: true
 
 #### **체코, 프라하 공항 도착**
 
-[##_Image|kage@chL8We/btqBZruNKfM/jNoAMu60SKnLnyKzOK16d0/img.jpg|alignCenter|data-origin-width="5184.0" data-origin-height="3456.0" data-ke-mobilestyle="widthOrigin"|프라하 공항에서 짐을 찾으며||_##]
+![IMG_1593](/assets/img/travel/동유럽/first/IMG_1593.jpg)
+
+> 프라하 공항에서 짐을 찾으며
 
 ---
 
@@ -136,7 +156,9 @@ comments: true
 
 ---
 
-[##_Image|kage@2EEKI/btqB1Hb61N0/BLyMhK8KKqPu5alweUJkmK/img.jpg|alignCenter|data-origin-width="0.0" data-origin-height="0.0" data-ke-mobilestyle="widthOrigin"|프라하 공항 바깥||_##]
+![IMG_1597](/assets/img/travel/동유럽/first/IMG_1597.jpg)
+
+> 프라하 공항 바깥
 
 ---
 
@@ -144,7 +166,9 @@ comments: true
 
 ---
 
-[##_Image|kage@bikoGn/btqB103zTPd/x9LnAmkFhmD3sDaKbKrFB0/img.jpg|alignCenter|data-origin-width="5184.0" data-origin-height="3456.0" data-ke-mobilestyle="widthOrigin"|프라하 공항 입구||_##]
+![IMG_1584](/assets/img/travel/동유럽/first/IMG_1584.jpg)
+
+> 프라하 공항 입구
 
 ---
 
@@ -152,7 +176,9 @@ comments: true
 
 ---
 
-[##_Image|kage@HdwjL/btqB1GxvT7v/MwzebzJnik9YKoj28NZI71/img.jpg|alignCenter|data-origin-width="5184.0" data-origin-height="3456.0" data-ke-mobilestyle="widthOrigin"|PRAHA, 현지 발음으로는 PRAGUE 인가보다||_##]
+![IMG_1607](/assets/img/travel/동유럽/first/IMG_1607.jpg)
+
+> PRAHA, 현지 발음으로는 PRAGUE 인가보다
 
 ---
 
@@ -160,7 +186,9 @@ PRAHA 공항 간판(?)의 모습을 버스에 타서 한 번 찍어 보았다. �
 
 ---
 
-[##_Image|kage@tXeii/btqBZhsoBBm/dD4jtxnKXjo1x9n9SFCBB0/img.jpg|alignCenter|data-origin-width="0.0" data-origin-height="0.0" data-ke-mobilestyle="widthOrigin"|앞으로 우리가 타고 다닐 버스||_##]
+![IMG_1605](/assets/img/travel/동유럽/first/IMG_1605.jpg)
+
+> 앞으로 우리가 타고 다닐 버스
 
 ---
 
@@ -172,7 +200,9 @@ PRAHA 공항 간판(?)의 모습을 버스에 타서 한 번 찍어 보았다. �
 
 ---
 
-[##_Image|kage@0okWz/btqBYfojeCH/3oD9yFglX4HGde5goFFwkK/img.jpg|alignCenter|data-origin-width="5184" data-origin-height="3456" data-ke-mobilestyle="widthOrigin"|Comfort Hotel 입구||_##]
+![IMG_1651](/assets/img/travel/동유럽/first/IMG_1651.jpg)
+
+> Comfort Hotel 입구
 
 ---
 
@@ -182,7 +212,9 @@ PRAHA 공항 간판(?)의 모습을 버스에 타서 한 번 찍어 보았다. �
 
 ---
 
-[##_Image|kage@dA67vV/btqBZqo6rlV/VX2cscSX8fnhy9XXkW6Lk1/img.jpg|alignCenter|data-origin-width="5184" data-origin-height="3456" data-ke-mobilestyle="widthOrigin"|First hotel's RECEPTION||_##]
+![IMG_1615](/assets/img/travel/동유럽/first/IMG_1615.jpg)
+
+> First hotel's RECEPTION
 
 ---
 
@@ -198,7 +230,9 @@ PRAHA 공항 간판(?)의 모습을 버스에 타서 한 번 찍어 보았다. �
 
 ---
 
-[##_Image|kage@ljuBA/btqBYf9JAu2/VEcv9SWiuVkkBd0altxge1/img.jpg|alignCenter|data-origin-width="5184" data-origin-height="3456" data-ke-mobilestyle="widthOrigin"|깔끔했던 호텔 방||_##]
+![IMG_1664](/assets/img/travel/동유럽/first/IMG_1664.jpg)
+
+> 깔끔했던 호텔 방
 
 ---
 
@@ -210,7 +244,9 @@ PRAHA 공항 간판(?)의 모습을 버스에 타서 한 번 찍어 보았다. �
 
 ---
 
-[##_Image|kage@egAu1Z/btqB1ccDPpJ/YwA8w1UJhPwOq7tVclkark/img.jpg|alignCenter|data-origin-width="5184" data-origin-height="3456" data-ke-mobilestyle="widthOrigin"|호텔 앞 은은한 가로등 빛의 도로||_##]
+![IMG_1625](/assets/img/travel/동유럽/first/IMG_1625.jpg)
+
+> 호텔 앞 은은한 가로등 빛의 도로
 
 ---
 
@@ -218,7 +254,9 @@ PRAHA 공항 간판(?)의 모습을 버스에 타서 한 번 찍어 보았다. �
 
 ---
 
-[##_Image|kage@W9ElU/btqB1mlJdmt/J42mKzyq3qGEWhHhak7R60/img.jpg|alignCenter|data-origin-width="5184" data-origin-height="3456" data-ke-mobilestyle="widthOrigin"|저 차 레이싱 하는거 아닙니다||_##]
+![IMG_1630](/assets/img/travel/동유럽/first/IMG_1630.jpg)
+
+> 저 차 레이싱 하는거 아닙니다
 
 ---
 
@@ -226,7 +264,9 @@ Ah... DSLR... Please give me some 삼각대... 진짜 한국 돌아가면 꼭 �
 
 ---
 
-[##_Image|kage@rnT4f/btqBZr2zTdA/MwcGm0rQTDZnXmUOp5aG2K/img.jpg|alignCenter|data-origin-width="0.0" data-origin-height="0.0" data-ke-mobilestyle="widthOrigin"|현지 마트, BILLA||_##]
+![IMG_1648](/assets/img/travel/동유럽/first/IMG_1648.jpg)
+
+> 현지 마트, BILLA
 
 ---
 
@@ -234,7 +274,9 @@ Ah... DSLR... Please give me some 삼각대... 진짜 한국 돌아가면 꼭 �
 
 ---
 
-[##_Image|kage@uCcy8/btqB10WOMbC/6vLS5oR7Nxg6H50lr7VMo0/img.jpg|alignCenter|data-origin-width="5184.0" data-origin-height="3456.0" data-ke-mobilestyle="widthOrigin"|마트 왔어요 과일이 싱싱하네요||_##]
+![IMG_1635](/assets/img/travel/동유럽/first/IMG_1635.jpg)
+
+> 마트 왔어요 과일이 싱싱하네요
 
 ---
 
@@ -242,7 +284,9 @@ Ah... DSLR... Please give me some 삼각대... 진짜 한국 돌아가면 꼭 �
 
 ---
 
-[##_Image|kage@b9AM30/btqB10oYBDM/Kqxv2HKGwlKFGBhjYLRvU1/img.jpg|alignCenter|data-origin-width="0.0" data-origin-height="0.0" data-ke-mobilestyle="widthOrigin"|햄과 소세지 종류가 많은 마트||_##]
+![IMG_1636](/assets/img/travel/동유럽/first/IMG_1636.jpg)
+
+> 햄과 소세지 종류가 많은 마트
 
 ---
 
@@ -250,7 +294,9 @@ Ah... DSLR... Please give me some 삼각대... 진짜 한국 돌아가면 꼭 �
 
 ---
 
-[##_Image|kage@4rAVq/btqB1mMOx52/EprCW9YkMXwwqzCle22v8k/img.jpg|alignCenter|data-origin-width="0.0" data-origin-height="0.0" data-ke-mobilestyle="widthOrigin"|햄의 종류가 매우 많다||_##]
+![IMG_1645](/assets/img/travel/동유럽/first/IMG_1645.jpg)
+
+> 햄의 종류가 매우 많다
 
 ---
 
@@ -258,7 +304,9 @@ Ah... DSLR... Please give me some 삼각대... 진짜 한국 돌아가면 꼭 �
 
 ---
 
-[##_Image|kage@XDc7l/btqB0eIutVq/Q0wlqSdr7Enq4PAkUemhvk/img.jpg|alignCenter|data-origin-width="5184" data-origin-height="3456" data-ke-mobilestyle="widthOrigin"|나의 사랑 나의 치즈||_##]
+![IMG_1643](/assets/img/travel/동유럽/first/IMG_1643.jpg)
+
+> 나의 사랑 나의 치즈
 
 ---
 
@@ -266,7 +314,9 @@ Ah... DSLR... Please give me some 삼각대... 진짜 한국 돌아가면 꼭 �
 
 ---
 
-[##_Image|kage@bcWqQU/btqB1nZgaBC/onlTxI6PUf9kCbFzYPAJv0/img.jpg|alignCenter|data-origin-width="0.0" data-origin-height="0.0" data-ke-mobilestyle="widthOrigin"|To much things, No English. 체코어라 뭐가 뭔지 모르고||_##]
+![IMG_1644](/assets/img/travel/동유럽/first/IMG_1644.jpg)
+
+> To much things, No English. 체코어라 뭐가 뭔지 모르고
 
 ---
 
@@ -276,7 +326,9 @@ Ah... DSLR... Please give me some 삼각대... 진짜 한국 돌아가면 꼭 �
 
 ---
 
-[##_Image|kage@Es2L7/btqBZgmGHXn/an57dc6ygr0zkDW33HC7fK/img.jpg|alignCenter|data-origin-width="5184" data-origin-height="3456" data-ke-mobilestyle="widthOrigin"|유제품이 많은 현지 마트||_##]
+![IMG_1641](/assets/img/travel/동유럽/first/IMG_1641.jpg)
+
+> 유제품이 많은 현지 마트
 
 ---
 
@@ -284,13 +336,17 @@ Ah... DSLR... Please give me some 삼각대... 진짜 한국 돌아가면 꼭 �
 
 ---
 
-[##_Image|kage@bDZmor/btqB11BqAD1/8uUs2eS4PScOka4L1IwyS1/img.jpg|alignCenter|data-origin-width="0.0" data-origin-height="0.0" data-ke-mobilestyle="widthOrigin"|이제 보니 정말 많이 샀다||_##]
+![IMG_1677](/assets/img/travel/동유럽/first/IMG_1677.jpg)
+
+> 이제 보니 정말 많이 샀다
 
 별로 안 산줄 알았는데 나중에 사고 보니 양이 진짜 많았다... 이 때는 진짜 몰랐다. 앞으로 펼쳐질 우리의 식단을. 파란만장한 빵빵빵 식단을. 그냥 처음 유럽에 왔으니 현지의 맛을 느껴보고 싶어 치즈와 햄, 빵을 사다가 먹어본 것 뿐인데... 그래도 빵은 진짜 엄청 싸다. 작고 길쭉한 바게트 느낌의 빵이 100원 정도 하는 수준.
 
 ---
 
-[##_Image|kage@bSuNNV/btqB0gl1IaW/KUrYXlNZDU6LFfxby2MAs1/img.jpg|alignCenter|data-origin-width="5184.0" data-origin-height="3456.0" data-ke-mobilestyle="widthOrigin"|유럽의 첫 맛||_##]
+![IMG_1686](/assets/img/travel/동유럽/first/IMG_1686.jpg)
+
+> 유럽의 첫 맛
 
 ---
 

@@ -8,8 +8,8 @@
       </div>
 
       <div class="sidebar-box">
-        {% if author.picture %}
-        {% include srcset-img.html class="me" img=author.picture alt=author.name %}
+        {% if author.logo %}
+        {% include srcset-img.html class="me" img=author.logo alt=author.name %}
         {% endif %}
       </div>
       {{ site.description | truncatewords:50 | markdownify }}
