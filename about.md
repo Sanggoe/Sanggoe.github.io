@@ -6,36 +6,81 @@ order: 1
 ---
 
 * * *
-<span style=
-"font-size:170%;
-font-weight:bold">
-박상민
-</span>
 
-Major : Computer Science
+## 박상민
+> 배우기를 추구하며, 주변에서 찾는 사람이 되기를 고민합니다.<br/>
+> Github : <a href="https://github.com/sanggoe">https://github.com/sanggoe</a><br/>
+> email : sanggoe0509@gmail.com
 
-seokyeong University
-
-35-10, Omok-ro, Uijeongbu-city, Gyeonggi-do, Republic of Korea
-
+---
 ## Personal Data
+* PARK SANG MIN, 朴相珉
+* 1997.05.09 출생
+* 35-10, Omok-ro, Uijeongbu-city, Gyeonggi-do, Republic of Korea
+
 ---
-> 1997.05.09 대한민국,경기도,의정부시 출생
-
-> 연락처: sanggoe0509@gmail.com
-
-> Github : <a href="https://github.com/sanggoe">https://github.com/sanggoe</a>
-
-
 ## Education
+* Mar.2016 ~ 현재 : 서경대학교 컴퓨터과학과 (DIVISION OF COMPUTER SCIENCE) 휴학
+* Mar.2013 ~ Feb.2016 : 송현고등학교 졸업
+
 ---
-> Mar.2016 ~ 현재 : 서경대학교 휴학생
->
-> 컴퓨터과학과 (DIVISION OF COMPUTER SCIENCE)
+## Skills and Certification
+**[Certification]**
+
+* Information Processing Engineer
+* Word Processer
+* ITQ 한글ㆍPowerpoint
+* Driver's License
 
 
+
+**[Language]**
+
+![java](/assets/img/java.png){: align="left" height="100"}
+![front](/assets/img/front.png){: align="left" height="100"}
+![python](/assets/img/python.png){: align="left" height="100"}
+![c](/assets/img/c.png){: align="left" height="100"}&nbsp;
+
+<br/>
+<br/>
+
+**[FrameWork]**
+
+![springboot](/assets/img/springboot.png){: align="left" height="100"}&nbsp;
+
+<br/>
+<br/>
+
+**[Data]**
+
+![mysql](/assets/img/mysql.png){: align="left" height="100"}&nbsp;
+
+<br/>
+<br/>
+
+**[VCS]**
+
+![git](/assets/img/git.png){: align="left" height="100"}&nbsp;
+
+<br/>
+<br/>
+
+**[Infra]**
+
+![docker](/assets/img/docker.png){: align="left" height="100"}&nbsp;
+
+<br/>
+<br/>
+
+**[Cloud]**
+
+* AWS E2C
+* Azure
+
+
+
+---
 ## Research Interest
----
 
 * Algorithm
     + Data Structual
@@ -85,14 +130,3 @@ seokyeong University
 <-->
 - 인턴 한것도 정리해보자
 - 연구실 (솔직히 한거 없지만)
-
-## Skills and Certification
----
-
-- 이것도 다시 정리해보자
-
--Language : C, Java, Python
-
--FrameWork: Spring, docker
-
--Certification : information processing engineer
