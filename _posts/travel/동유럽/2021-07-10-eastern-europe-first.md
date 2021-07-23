@@ -105,7 +105,7 @@ comments: true
 
 ---
 
-![IMG_1585](/assets/img/travel/동유럽/first/IMG_1585.jpg)
+![IMG_1585](/assets/img/travel/동유럽/first/IMG_1585.JPG)
 
 > 비행기 창문 밝기(?) 조절 버튼
 
@@ -146,7 +146,7 @@ comments: true
 
 #### **체코, 프라하 공항 도착**
 
-![IMG_1593](/assets/img/travel/동유럽/first/IMG_1593.jpg)
+![IMG_1593](/assets/img/travel/동유럽/first/IMG_1593.JPG)
 
 > 프라하 공항에서 짐을 찾으며
 
@@ -156,7 +156,7 @@ comments: true
 
 ---
 
-![IMG_1597](/assets/img/travel/동유럽/first/IMG_1597.jpg)
+![IMG_1597](/assets/img/travel/동유럽/first/IMG_1597.JPG)
 
 > 프라하 공항 바깥
 
@@ -166,7 +166,7 @@ comments: true
 
 ---
 
-![IMG_1584](/assets/img/travel/동유럽/first/IMG_1584.jpg)
+![IMG_1584](/assets/img/travel/동유럽/first/IMG_1584.JPG)
 
 > 프라하 공항 입구
 
@@ -176,7 +176,7 @@ comments: true
 
 ---
 
-![IMG_1607](/assets/img/travel/동유럽/first/IMG_1607.jpg)
+![IMG_1607](/assets/img/travel/동유럽/first/IMG_1607.JPG)
 
 > PRAHA, 현지 발음으로는 PRAGUE 인가보다
 
@@ -186,7 +186,7 @@ PRAHA 공항 간판(?)의 모습을 버스에 타서 한 번 찍어 보았다. �
 
 ---
 
-![IMG_1605](/assets/img/travel/동유럽/first/IMG_1605.jpg)
+![IMG_1605](/assets/img/travel/동유럽/first/IMG_1605.JPG)
 
 > 앞으로 우리가 타고 다닐 버스
 
@@ -200,7 +200,7 @@ PRAHA 공항 간판(?)의 모습을 버스에 타서 한 번 찍어 보았다. �
 
 ---
 
-![IMG_1651](/assets/img/travel/동유럽/first/IMG_1651.jpg)
+![IMG_1651](/assets/img/travel/동유럽/first/IMG_1651.JPG)
 
 > Comfort Hotel 입구
 
@@ -212,7 +212,7 @@ PRAHA 공항 간판(?)의 모습을 버스에 타서 한 번 찍어 보았다. �
 
 ---
 
-![IMG_1615](/assets/img/travel/동유럽/first/IMG_1615.jpg)
+![IMG_1615](/assets/img/travel/동유럽/first/IMG_1615.JPG)
 
 > First hotel's RECEPTION
 
@@ -230,7 +230,7 @@ PRAHA 공항 간판(?)의 모습을 버스에 타서 한 번 찍어 보았다. �
 
 ---
 
-![IMG_1664](/assets/img/travel/동유럽/first/IMG_1664.jpg)
+![IMG_1664](/assets/img/travel/동유럽/first/IMG_1664.JPG)
 
 > 깔끔했던 호텔 방
 
@@ -244,7 +244,7 @@ PRAHA 공항 간판(?)의 모습을 버스에 타서 한 번 찍어 보았다. �
 
 ---
 
-![IMG_1625](/assets/img/travel/동유럽/first/IMG_1625.jpg)
+![IMG_1625](/assets/img/travel/동유럽/first/IMG_1625.JPG)
 
 > 호텔 앞 은은한 가로등 빛의 도로
 
@@ -254,7 +254,7 @@ PRAHA 공항 간판(?)의 모습을 버스에 타서 한 번 찍어 보았다. �
 
 ---
 
-![IMG_1630](/assets/img/travel/동유럽/first/IMG_1630.jpg)
+![IMG_1630](/assets/img/travel/동유럽/first/IMG_1630.JPG)
 
 > 저 차 레이싱 하는거 아닙니다
 
@@ -264,7 +264,7 @@ Ah... DSLR... Please give me some 삼각대... 진짜 한국 돌아가면 꼭 �
 
 ---
 
-![IMG_1648](/assets/img/travel/동유럽/first/IMG_1648.jpg)
+![IMG_1648](/assets/img/travel/동유럽/first/IMG_1648.JPG)
 
 > 현지 마트, BILLA
 
@@ -274,7 +274,7 @@ Ah... DSLR... Please give me some 삼각대... 진짜 한국 돌아가면 꼭 �
 
 ---
 
-![IMG_1635](/assets/img/travel/동유럽/first/IMG_1635.jpg)
+![IMG_1635](/assets/img/travel/동유럽/first/IMG_1635.JPG)
 
 > 마트 왔어요 과일이 싱싱하네요
 
@@ -284,7 +284,7 @@ Ah... DSLR... Please give me some 삼각대... 진짜 한국 돌아가면 꼭 �
 
 ---
 
-![IMG_1636](/assets/img/travel/동유럽/first/IMG_1636.jpg)
+![IMG_1636](/assets/img/travel/동유럽/first/IMG_1636.JPG)
 
 > 햄과 소세지 종류가 많은 마트
 
@@ -294,7 +294,7 @@ Ah... DSLR... Please give me some 삼각대... 진짜 한국 돌아가면 꼭 �
 
 ---
 
-![IMG_1645](/assets/img/travel/동유럽/first/IMG_1645.jpg)
+![IMG_1645](/assets/img/travel/동유럽/first/IMG_1645.JPG)
 
 > 햄의 종류가 매우 많다
 
@@ -304,7 +304,7 @@ Ah... DSLR... Please give me some 삼각대... 진짜 한국 돌아가면 꼭 �
 
 ---
 
-![IMG_1643](/assets/img/travel/동유럽/first/IMG_1643.jpg)
+![IMG_1643](/assets/img/travel/동유럽/first/IMG_1643.JPG)
 
 > 나의 사랑 나의 치즈
 
@@ -314,7 +314,7 @@ Ah... DSLR... Please give me some 삼각대... 진짜 한국 돌아가면 꼭 �
 
 ---
 
-![IMG_1644](/assets/img/travel/동유럽/first/IMG_1644.jpg)
+![IMG_1644](/assets/img/travel/동유럽/first/IMG_1644.JPG)
 
 > To much things, No English. 체코어라 뭐가 뭔지 모르고
 
@@ -326,7 +326,7 @@ Ah... DSLR... Please give me some 삼각대... 진짜 한국 돌아가면 꼭 �
 
 ---
 
-![IMG_1641](/assets/img/travel/동유럽/first/IMG_1641.jpg)
+![IMG_1641](/assets/img/travel/동유럽/first/IMG_1641.JPG)
 
 > 유제품이 많은 현지 마트
 
@@ -336,7 +336,7 @@ Ah... DSLR... Please give me some 삼각대... 진짜 한국 돌아가면 꼭 �
 
 ---
 
-![IMG_1677](/assets/img/travel/동유럽/first/IMG_1677.jpg)
+![IMG_1677](/assets/img/travel/동유럽/first/IMG_1677.JPG)
 
 > 이제 보니 정말 많이 샀다
 
@@ -344,7 +344,7 @@ Ah... DSLR... Please give me some 삼각대... 진짜 한국 돌아가면 꼭 �
 
 ---
 
-![IMG_1686](/assets/img/travel/동유럽/first/IMG_1686.jpg)
+![IMG_1686](/assets/img/travel/동유럽/first/IMG_1686.JPG)
 
 > 유럽의 첫 맛
 
