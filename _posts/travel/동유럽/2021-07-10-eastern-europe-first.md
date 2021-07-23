@@ -63,7 +63,7 @@ comments: true
 
 ---
 
-![IMG_1582](/assets/img/travel/동유럽/first/IMG_1582.jpg)
+![IMG_1582](/assets/img/travel/동유럽/first/IMG_1582.JPG)
 
 > 비행기를 보니 마음이 다 설렌다
 
@@ -73,7 +73,7 @@ comments: true
 
 ---
 
-![IMG_1584](/assets/img/travel/동유럽/first/IMG_1584.jpg)
+![IMG_1584](/assets/img/travel/동유럽/first/IMG_1584.JPG)
 
 > 내가 하늘을 날고있어요!
 
