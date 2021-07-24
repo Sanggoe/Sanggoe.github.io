@@ -7,7 +7,6 @@ categories: study
 tags: etc
 comments: true
 ---
-
 ### 새로 배운 InteliJ 단축키
 
 * alt alt : IDE 테두리의 도구창 뜨게 하기

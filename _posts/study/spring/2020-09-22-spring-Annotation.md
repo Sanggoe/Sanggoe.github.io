@@ -7,7 +7,6 @@ categories: study
 tags: spring
 comments: true
 ---
-
 ### 어노테이션
 
 #### @SpringBootApplication

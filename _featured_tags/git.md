@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Etc.
-slug: etc
+title: Git
+slug: git
 category: study
 menu: false
-order: 7
+order: 6
 ---
