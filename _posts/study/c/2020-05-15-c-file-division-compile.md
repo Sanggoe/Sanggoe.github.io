@@ -2,7 +2,7 @@
 layout: post
 title:  "[C] File division complie"
 subtitle:   "파일 분할 컴파일이란?"
-date: 2021-05-15 01:38:46 +0900
+date: 2020-05-15 01:38:46 +0900
 categories: study
 tags: c
 comments: true
