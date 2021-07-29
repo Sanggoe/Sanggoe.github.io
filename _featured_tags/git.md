@@ -4,5 +4,5 @@ title: Git
 slug: git
 category: study
 menu: false
-order: 6
+order: 7
 ---

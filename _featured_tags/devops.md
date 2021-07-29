@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Etc.
-slug: etc
+title: DevOps
+slug: devops
 category: study
 menu: false
-order: 8
+order: 4
 ---
