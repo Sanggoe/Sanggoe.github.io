@@ -85,7 +85,7 @@ comments: true
 
 #### 폭포수 모델
 
-![image-20210314233754635](./images/image-20210314233754635.png)
+![image-20210314233754635](/assets/img/study/devops/image-20210314233754635.png)
 
 <br/>
 
