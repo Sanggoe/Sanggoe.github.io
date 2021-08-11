@@ -1,5 +1,12 @@
-# Chapter 3. 유닉스 프로세스
-
+---
+layout: post
+title:  "[Network] Chapter3 - 유닉스 프로세스"
+subtitle:   "learn unix process"
+date: 2020-12-22 22:10:52 +0900
+categories: study
+tags: network
+comments: true
+---
 ### 3.1 프로세스의 이해
 
 * 이 장에서는 정해진 시나리오 없이 자유롭게 메시지 주고받고 싶은 것이 목적이다.
@@ -87,7 +94,7 @@ int main(int argc, char **argv) {
 
 * 프로세스의 메모리 영역과 저장되는 변수 종류 예
 
-![image-20201102164545138](./imgs/image-20201102164545138.png)
+![image-20201102164545138](/assets/img/study/network/image-20201102164545138.png)
 
 <br/>
 

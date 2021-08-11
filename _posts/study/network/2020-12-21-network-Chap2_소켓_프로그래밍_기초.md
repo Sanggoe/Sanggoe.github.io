@@ -1,5 +1,12 @@
-# Chapter2. 소켓 프로그래밍 기초
-
+---
+layout: post
+title:  "[Network] Chaper2 - 소켓 프로그래밍 기초"
+subtitle:   "learn socket programming base"
+date: 2020-12-21 20:22:01 +0900
+categories: study
+tags: network
+comments: true
+---
 ## 2.1 소켓 개요
 
 ### 2.1.1 소켓 정의

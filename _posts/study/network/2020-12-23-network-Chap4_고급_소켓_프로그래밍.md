@@ -1,5 +1,12 @@
-# Chapter 4. 고급 소켓 프로그래밍
-
+---
+layout: post
+title:  "[Network] Chapter4 - 고급 소켓 프로그래밍"
+subtitle:   "learn advanced socket programming"
+date: 2020-12-23 23:09:30 +0900
+categories: study
+tags: network
+comments: true
+---
 * 3장에서 talk server는 서버와 클라이언트가 어떻게 메시지를 주고 받는지 소개하기 위해!
 
 <br/>
@@ -152,13 +159,13 @@
 
 * 서버 프로그램
 
-![image-20201116091410093](./imgs/image-20201116091410093.png)
+![image-20201116091410093](/assets/img/study/network/image-20201116091410093.png)
 
 
 
 <br/>
 
-![image-20201116091843241](./imgs/image-20201116091843241.png)
+![image-20201116091843241](/assets/img/study/network/image-20201116091843241.png)
 
 cliaddr을 굳이 줄 필요 없다고??
 
@@ -174,11 +181,11 @@ cli 실행..
 
 이건 크라이언트
 
-![image-20201116092727923](./imgs/image-20201116092727923.png)
+![image-20201116092727923](/assets/img/study/network/image-20201116092727923.png)
 
 <br/>
 
-![image-20201116092742191](./imgs/image-20201116092742191.png)
+![image-20201116092742191](/assets/img/study/network/image-20201116092742191.png)
 
 아니면 클라이언트 측에서 sendto 함수를 한 번 호출하고, 정크 메시지를 줌으로서 서버에서 출력을 할 필요는 없다.
 
@@ -831,7 +838,7 @@ int tcp_listen(int host, int port, int backlog){
 
 ### 임시 저장
 
-![image-20201130093752630](./imgs/image-20201130093752630.png)
+![image-20201130093752630](/assets/img/study/network/image-20201130093752630.png)
 
 스크립 파일이 여러 개 보여줘야 한다. 
 
