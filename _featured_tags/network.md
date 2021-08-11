@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Etc.
-slug: etc
+title: Network
+slug: network
 category: study
 menu: false
-order: 9
+order: 7
 ---
