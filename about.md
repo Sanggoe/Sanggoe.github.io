@@ -8,20 +8,21 @@ order: 1
 * * *
 
 ## 박상민
-> 배우기를 추구하며, 주변에서 찾는 사람이 되기를 고민합니다.<br/>
+> 배우기를 추구하며, 주변에서 필요로 하는 성실한 사람이 되기를 고민합니다.<br/>
 > Github : <a href="https://github.com/sanggoe">https://github.com/sanggoe</a><br/>
 > email : sanggoe0509@gmail.com
 
 ---
 ## Personal Data
-* PARK SANG MIN, 朴相珉
+* Park Sang-min, 朴相珉
 * 1997.05.09 출생
 * 35-10, Omok-ro, Uijeongbu-city, Gyeonggi-do, Republic of Korea
 * Christian
 
 ---
 ## Education
-* Mar.2016 ~ 현재 : 서경대학교 컴퓨터과학과 (DIVISION OF COMPUTER SCIENCE) 휴학
+* Feb.2023 졸업 예정
+* Mar.2016 ~ Current : 서경대학교 컴퓨터과학과 (DIVISION OF COMPUTER SCIENCE) 재학
 * Mar.2013 ~ Feb.2016 : 송현고등학교 졸업
 
 ---
