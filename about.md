@@ -17,6 +17,7 @@ order: 1
 * PARK SANG MIN, 朴相珉
 * 1997.05.09 출생
 * 35-10, Omok-ro, Uijeongbu-city, Gyeonggi-do, Republic of Korea
+* Christian
 
 ---
 ## Education
@@ -121,8 +122,8 @@ order: 1
     * [Source code X] - Private Project
 
 **[OpenCV Project]**
-* Image Processing Programming - Python OpenCV 이용한 프로젝트
-* jpg 파일을 png 파일로 변환하기 위한 과정을 처리하는 프로그램
+* Image Processing Programming - Python OpenCV를 이용한 프로젝트
+* jpg 파일을 Alpha channel을 추가한 png 파일로 변환하기 위한 과정 처리를 위한 프로그램
 * 라이브러리들...
 * [Source code](https://github.com/Sanggoe/Image-processing-programming/tree/master/project)
 
@@ -171,14 +172,17 @@ order: 1
 **[YeonJi 연지]**
 * 취업 준비 동아리
 * 2020년 3월– 활동 중
+<!--
 
 **[중앙대학교 네비게이토]**
 * 기독교 선교 동아리
 * 2020년 1월– 활동 중
+-->
 
 **[전공 튜터링]**
 * C언어 스터디 티칭
-* 2021년 7월 ~ 8월 (진행중) 
+* 2021년 9월 ~ 12월
+* 2021년 7월 ~ 8월
 * 2020년 9월 ~ 11월
 * 2020년 7월 ~ 8월
 
@@ -188,5 +192,5 @@ order: 1
 
 ---
 ## Awards
-* Paas-ta프로그램 경진대회 대상 (한국정보화진흥원, 한국상용SW협회)
+* Paas-ta 프로그램 경진대회 대상 (한국정보화진흥원, 한국상용SW협회)
 * 2017년 11월 29일 – 2017년 11월 30일
