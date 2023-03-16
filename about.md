@@ -21,8 +21,7 @@ order: 1
 
 ---
 ## Education
-* Feb.2023 졸업 예정
-* Mar.2016 ~ Current : 서경대학교 컴퓨터과학과 (DIVISION OF COMPUTER SCIENCE) 재학
+* Mar.2016 ~ Feb.2023 : 서경대학교 소프트웨어학과 수석졸업
 * Mar.2013 ~ Feb.2016 : 송현고등학교 졸업
 
 ---
@@ -30,10 +29,9 @@ order: 1
 
 **[Certification]**
 
-* Information Processing Engineer
+* 정보처리기사 (Information Processing Engineer)
 * Word Processer
 * ITQ 한글ㆍPowerpoint
-* Driver's License
 
 **[Language]**
 
@@ -84,7 +82,7 @@ order: 1
 **[Cloud]**
 
 * AWS E2C
-* Azure
+* Azure (VM)
 
 ---
 ## Interest
@@ -92,6 +90,8 @@ order: 1
 * Spring
     + Spring Framework
     + Spring Security
+
+* React
 
 * CI/CD
     + Docker
@@ -103,6 +103,17 @@ order: 1
 
 ---
 ## Project
+
+**[pjt 대장간]**
+* 졸업작품 - 대장간 프로젝트 (성경 구절 암송 점검 사이트)
+* spring boot, spring security를 이용한 서버측 구현
+* 사용자 경험 극대화를 위해 react를 이용한 클라이언트측 구현
+* JWT 토큰 인증방식 이용
+* Synology NAS를 이용한 서버 구축
+* Docker를 이용한 서비스 배포
+* NAS 내부의 Maria DB를 이용한 데이터 연동
+* [Source code1](https://github.com/Sanggoe/pjt-daejanggan-server)
+* [Source code2](https://github.com/Sanggoe/pjt-daejanggan-front)
 
 **[Plastic Calculator Project]**
 * 연지 - 플라스틱 줄이기 프로젝트
@@ -164,7 +175,7 @@ order: 1
 
 **[Lab1]**
 * 학부 연구실
-* 2020년 7월 – 활동 중
+* 2020년 7월 – 2022년 10월
 
 **[Makers]**
 * 소프트웨어 학술 동아리
@@ -172,7 +183,7 @@ order: 1
 
 **[YeonJi 연지]**
 * 취업 준비 동아리
-* 2020년 3월– 활동 중
+* 2020년 3월 – 2022년 10월
 
 **[전공 튜터링]**
 * C언어 스터디 티칭
