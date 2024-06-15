@@ -8,7 +8,7 @@ order: 1
 * * *
 
 ## 박상민
-> 배우기를 추구하며, 주변에서 필요로 하는 성실한 사람이 되기를 고민합니다.<br/>
+> 경청하여 겸손하게 잘 배우고, 섬기는 사람이 되기를 고민합니다.<br/>
 > Github : <a href="https://github.com/sanggoe">https://github.com/sanggoe</a><br/>
 > email : sanggoe0509@gmail.com
 
@@ -21,6 +21,7 @@ order: 1
 
 ---
 ## Education
+* Aug.2023 ~ Current  : 중앙대학교 융합보안학과 재학 (휴학중)
 * Mar.2016 ~ Feb.2023 : 서경대학교 소프트웨어학과 수석졸업
 * Mar.2013 ~ Feb.2016 : 송현고등학교 졸업
 
@@ -30,6 +31,7 @@ order: 1
 **[Certification]**
 
 * 정보처리기사 (Information Processing Engineer)
+* 네트워크관리사 2급 (Network Advisor)
 * Word Processer
 * ITQ 한글ㆍPowerpoint
 
